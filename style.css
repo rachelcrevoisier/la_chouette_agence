@@ -638,7 +638,10 @@ a[data-lightbox]:hover img {
     color: rgba(0, 0, 0, .5);
     background: none;
 }
-
+.pres-savoir-faire
+{
+	font-size:13px;
+}
 h1,
 h2,
 h3,
@@ -662,6 +665,17 @@ a {
     font-size: 38px;
 }
 
+.hero-bloc-text-h2 {
+    font-size: 20px;
+}
+.hero-bloc-text-citation {
+    font-size: 18px;
+	font-style:italic;
+}
+.hero-bloc-text-auteur {
+    font-size: 14px;
+	
+}
 .hero-bloc-text-sub {
     font-size: 36px;
 }
@@ -776,6 +790,9 @@ h4 {
 
 .tc-white {
     color: #F3976C!important;
+}
+.tc-white-h2 {
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine {
